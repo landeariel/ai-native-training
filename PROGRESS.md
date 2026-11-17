@@ -2,7 +2,7 @@
 
 | Block | Days | Status | Date | Notes |
 |---|---|---|---|---|
-| Setup day | 1 | In progress | 2026-11-16 | |
+| Setup day | 1 | Done | 2026-11-16 | |
 | 1 How the model works | 2 | Not started | | |
 | 2 Context engineering | 2 | Not started | | |
 | 3 Tools and agents | 2 | Not started | | |
