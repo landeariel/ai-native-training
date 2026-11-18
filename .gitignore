@@ -1,2 +1,5 @@
 .env
 .DS_Store
+.venv/
+01-tokens/contract/
+__pycache__/
