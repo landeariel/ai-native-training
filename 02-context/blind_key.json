@@ -1,0 +1,42 @@
+{
+  "A": {
+    "model": "Sonnet",
+    "run": 3
+  },
+  "B": {
+    "model": "Haiku",
+    "run": 5
+  },
+  "C": {
+    "model": "Sonnet",
+    "run": 5
+  },
+  "D": {
+    "model": "Haiku",
+    "run": 2
+  },
+  "E": {
+    "model": "Sonnet",
+    "run": 4
+  },
+  "F": {
+    "model": "Haiku",
+    "run": 4
+  },
+  "G": {
+    "model": "Sonnet",
+    "run": 2
+  },
+  "H": {
+    "model": "Haiku",
+    "run": 3
+  },
+  "I": {
+    "model": "Haiku",
+    "run": 1
+  },
+  "J": {
+    "model": "Sonnet",
+    "run": 1
+  }
+}
