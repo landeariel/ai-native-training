@@ -1,0 +1,9 @@
+Model,Setting,Caching,Input tokens (normal),Input tokens (cache write),Input tokens (cache read),Output tokens,Contract size (tokens),Total tokens,API cost per contract,Revenue per contract,Gross profit per contract,API cost per user per month,Revenue per user per month,Gross profit per user per month,Gross margin
+Haiku 5.5,thinking off,Off,100028,0,0,484,16299,100512,0.010245,0.245,0.234755,2.04896,49.0,46.95104,0.958184
+Haiku 5.5,thinking off,On,2234,16299,81495,484,16299,100512,0.003318,0.245,0.241682,0.663545,49.0,48.336455,0.986458
+Sonnet 5.5,thinking off,Off,99773,0,0,433,16299,100206,0.203876,0.245,0.041124,40.7752,49.0,8.2248,0.167853
+Sonnet 5.5,thinking off,On,1979,16299,81495,433,16299,100206,0.057185,0.245,0.187815,11.437,49.0,37.563,0.766592
+Opus 5.5,effort low,Off,99753,0,0,429,16299,100182,0.407592,0.245,-0.162592,81.5184,49.0,-32.5184,-0.663641
+Opus 5.5,effort low,On,1959,16299,81495,429,16299,100182,0.11421,0.245,0.13079,22.842,49.0,26.158,0.533837
+Fable 5.2,effort low,Off,99753,0,0,429,16299,100182,0.815184,0.245,-0.570184,163.0368,49.0,-114.0368,-2.327282
+Fable 5.2,effort low,On,1959,16299,81495,429,16299,100182,0.212121,0.245,0.032879,42.4242,49.0,6.5758,0.1342

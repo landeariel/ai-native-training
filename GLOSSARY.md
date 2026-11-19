@@ -13,3 +13,16 @@
 | API key | A credential that authenticates programs I build to the model provider's API, billed by usage; separate from my Max login | 2026-11-17 |
 | harness | The program that sends context to the model, executes the tool calls the model writes, and returns the results; mine is Claude Code | 2026-11-17 |
 | tool call | The model's request for the harness to run a tool, with specific inputs; the tool lives in the harness | 2026-11-17 |
+| SDK |  | 2026-11-17 |
+| virtual environment |  | 2026-11-17 |
+| input tokens / output tokens |  | 2026-11-17 |
+| tokenizer |  | 2026-11-17 |
+| token counting (count-only) |  | 2026-11-17 |
+| system prompt |  | 2026-11-17 |
+| context |  | 2026-11-17 |
+| thinking tokens |  | 2026-11-18 |
+| effort |  | 2026-11-18 |
+| prompt caching |  | 2026-11-18 |
+| cache write / cache read |  | 2026-11-18 |
+| eval |  | 2026-11-18 |
+| gross margin |  | 2026-11-18 |
